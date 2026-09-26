@@ -87,7 +87,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 
 | | Repositório | O que tem lá |
 |:-:|---|---|
-| 📚 | [**docker-learning**](https://github.com/docker-journey/docker-learning) | Os 10 temas da trilha, cada um com teoria + prática |
+| 📚 | [**docker-learning**](https://github.com/Docker-Journey/docker-learning) | Os 10 temas da trilha, cada um com teoria + prática |
 | 🐳 | [**docker-multi-container**](https://github.com/docker-journey/docker-multi-container) | Projeto completo juntando tudo que aprendi |
 | 🧪 | [**docker-labs**](https://github.com/docker-journey/docker-labs) | Pequenos experimentos (e muitas coisas quebradas 💥) |
 | 📖 | [**docker-notes**](https://github.com/docker-journey/docker-notes) | Anotações, resumos e explicações |
