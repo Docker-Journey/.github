@@ -68,9 +68,9 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 
 | # | Tema | 📝 Explicação | 🧪 Lab | Status |
 |:-:|------|:-:|:-:|:-:|
-| 01 | 🫧 Containers | [ver](https://github.com/docker-journey/docker-learning/tree/main/01-containers) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
-| 02 | 🖼️ Images | [ver](https://github.com/docker-journey/docker-learning/tree/main/02-images) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
-| 03 | 📜 Dockerfile | [ver](https://github.com/docker-journey/docker-learning/tree/main/03-dockerfile) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
+| 01 | 🫧 Containers | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/01-container) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/01-container/exercicios-cli.md) | 💗 |
+| 02 | 🖼️ Images | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/02-images/01-imagens.md) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
+| 03 | 📜 Dockerfile | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/01-dockerfile.md) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/exercicio.md) | 💗 |
 | 04 | 💾 Volumes | [ver](https://github.com/docker-journey/docker-learning/tree/main/04-volumes) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
