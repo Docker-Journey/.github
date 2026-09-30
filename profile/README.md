@@ -41,7 +41,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <div align="center">
 
 <!-- 🎀 Para atualizar: troque o número depois de /progress/ pela sua % (tópicos concluídos ÷ 10 × 100) -->
-<img src="https://geps.dev/progress/0?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
+<img src="https://geps.dev/progress/10?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
 
 <br/><br/>
 </div>
@@ -54,7 +54,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <br/>
 <img src="https://img.shields.io/badge/🧪%20Labs-0-d8b4fe?style=for-the-badge&labelColor=a855f7"/>
 <br/>
-<img src="https://img.shields.io/badge/📖%20Tutoriais-0-c084fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📖%20Tutoriais-3-c084fc?style=for-the-badge"/>
 <br/>
 <img src="https://img.shields.io/badge/💬%20Posts%20na%20comunidade-0-a855f7?style=for-the-badge"/>
 
@@ -69,8 +69,8 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 | # | Tema | 📝 Explicação | 🧪 Lab | Status |
 |:-:|------|:-:|:-:|:-:|
 | 01 | 🫧 Containers | [ver](https://github.com/docker-journey/docker-learning/tree/main/01-containers) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
-| 02 | 🖼️ Images | [ver](https://github.com/docker-journey/docker-learning/tree/main/02-images) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 03 | 📜 Dockerfile | [ver](https://github.com/docker-journey/docker-learning/tree/main/03-dockerfile) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
+| 02 | 🖼️ Images | [ver](https://github.com/docker-journey/docker-learning/tree/main/02-images) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
+| 03 | 📜 Dockerfile | [ver](https://github.com/docker-journey/docker-learning/tree/main/03-dockerfile) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
 | 04 | 💾 Volumes | [ver](https://github.com/docker-journey/docker-learning/tree/main/04-volumes) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
@@ -136,8 +136,8 @@ Todo tema segue a mesma estrutura, para ficar fácil de acompanhar a evolução:
 <div align="center">
 
 ```
-                 🐳 TEMA
-                    │
+    🐳 TEMA
+       │
        ┌────────────┼────────────┐
        ↓            ↓            ↓
    💻 GitHub    💼 LinkedIn   🎤 Comunidade
