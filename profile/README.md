@@ -41,7 +41,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <div align="center">
 
 <!-- 🎀 Para atualizar: troque o número depois de /progress/ pela sua % (tópicos concluídos ÷ 10 × 100) -->
-<img src="https://geps.dev/progress/10?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
+<img src="https://geps.dev/progress/20?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
 
 <br/><br/>
 </div>
