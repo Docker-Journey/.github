@@ -41,18 +41,18 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <div align="center">
 
 <!-- 🎀 Para atualizar: troque o número depois de /progress/ pela sua % (tópicos concluídos ÷ 10 × 100) -->
-<img src="https://geps.dev/progress/20?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
+<img src="https://geps.dev/progress/40?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
 
 <br/><br/>
 </div>
 
 <!-- 🎀 Para atualizar: troque os números nos badges abaixo -->
 <div align="left">
-<img src="https://img.shields.io/badge/📦%20Tópicos-0%20%2F%2010-f472b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦%20Tópicos-4%20%2F%2010-f472b6?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/badge/🐳%20Projetos-0-e879f9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐳%20Projetos-2-e879f9?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/badge/🧪%20Labs-0-d8b4fe?style=for-the-badge&labelColor=a855f7"/>
+<img src="https://img.shields.io/badge/🧪%20Labs-2-d8b4fe?style=for-the-badge&labelColor=a855f7"/>
 <br/>
 <img src="https://img.shields.io/badge/📖%20Tutoriais-3-c084fc?style=for-the-badge"/>
 <br/>
@@ -66,12 +66,12 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 
 > 🤍 a fazer &nbsp;•&nbsp; 💗 em andamento &nbsp;•&nbsp; 💜 concluído
 
-| # | Tema | 📝 Explicação | 🧪 Lab | Status |
+| # | Tema | 📝 Estudos | 🧪 Lab | Status |
 |:-:|------|:-:|:-:|:-:|
 | 01 | 🫧 Containers | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/01-container) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/01-container/exercicios-cli.md) | 💗 |
 | 02 | 🖼️ Images | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/02-images/01-imagens.md) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
 | 03 | 📜 Dockerfile | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/01-dockerfile.md) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/exercicio.md) | 💗 |
-| 04 | 💾 Volumes | [ver](https://github.com/docker-journey/docker-learning/tree/main/04-volumes) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
+| 04 | 💾 Volumes | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/04-volume) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
 | 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
 | 07 | 📮 Registries | [ver](https://github.com/docker-journey/docker-learning/tree/main/07-registries) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
@@ -178,11 +178,12 @@ Todo tema segue a mesma estrutura, para ficar fácil de acompanhar a evolução:
 
 <div align="center">
 
-### 💜 Vamos aprender juntos?
+### 💜 Vamos aprender juntas?
 
 Se você também está começando com Docker, fique à vontade para acompanhar, abrir issues com dúvidas ou sugerir labs.
 
-<img src="https://img.shields.io/badge/Feito%20com-muito%20café%20e%20containers-f9a8d4?style=flat-square&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Feito%20com-muito%20cha%20e%20cookies-f9a8d4?style=flat-square&logo=coffeescript&logoColor=white"/>🍪 🍪 🍪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:d8b4fe,100:f9a8d4&height=120&section=footer" width="100%"/>
 
