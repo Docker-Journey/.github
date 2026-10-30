@@ -68,16 +68,16 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 
 | # | Tema | 📝 Estudos | 🧪 Lab | Status |
 |:-:|------|:-:|:-:|:-:|
-| 01 | 🫧 Containers | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/01-container) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/01-container/exercicios-cli.md) | 💗 |
-| 02 | 🖼️ Images | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/02-images/01-imagens.md) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
-| 03 | 📜 Dockerfile | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/01-dockerfile.md) | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/exercicio.md) | 💗 |
-| 04 | 💾 Volumes | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/04-volume) | [ver](https://github.com/docker-journey/docker-labs) | 💗 |
-| 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 07 | 📮 Registries | [ver](https://github.com/docker-journey/docker-learning/tree/main/07-registries) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 08 | 🔐 Security | [ver](https://github.com/docker-journey/docker-learning/tree/main/08-security) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 09 | 🧪 Testing | [ver](https://github.com/docker-journey/docker-learning/tree/main/09-testing) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
-| 10 | 🚀 CI/CD | [ver](https://github.com/docker-journey/docker-learning/tree/main/10-ci-cd) | [ver](https://github.com/docker-journey/docker-labs) | 🤍 |
+| 01 | 🫧 Containers | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/01-container) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
+| 02 | 🖼️ Images | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/02-images/01-imagens.md) | [ver-lab](https://github.com/docker-journey/docker-labs) | 💗 |
+| 03 | 📜 Dockerfile | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/01-dockerfile.md) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
+| 04 | 💾 Volumes | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/04-volume) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
+| 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 07 | 📮 Registries | [ver](https://github.com/docker-journey/docker-learning/tree/main/07-registries) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 08 | 🔐 Security | [ver](https://github.com/docker-journey/docker-learning/tree/main/08-security) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 09 | 🧪 Testing | [ver](https://github.com/docker-journey/docker-learning/tree/main/09-testing) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 10 | 🚀 CI/CD | [ver](https://github.com/docker-journey/docker-learning/tree/main/10-ci-cd) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
 
 <br/>
 
@@ -89,7 +89,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 |:-:|---|---|
 | 📚 | [**docker-learning**](https://github.com/Docker-Journey/docker-learning) | Os 10 temas da trilha, cada um com teoria + prática |
 | 🐳 | [**docker-multi-container**](https://github.com/docker-journey/docker-multi-container) | Projeto completo juntando tudo que aprendi |
-| 🧪 | [**docker-labs**](https://github.com/docker-journey/docker-labs) | Pequenos experimentos (e muitas coisas quebradas 💥) |
+| 🧪 | [**docker-labs**](https://github.com/Docker-Journey/01-docker-labs) | Pequenos experimentos (e muitas coisas quebradas 💥) |
 | 📖 | [**docker-notes**](https://github.com/docker-journey/docker-notes) | Anotações, resumos e explicações |
 
 </div>
