@@ -6,17 +6,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:d8b4fe,100:a855f7&height=220&section=header&text=Docker%20Journey&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Aprender%20•%20Construir%20•%20Quebrar%20•%20Consertar%20•%20Compartilhar&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<a href="https://github.com/docker-journey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=🐳+Aprendendo+Docker+construindo+coisas;💥+Quebrando+coisas+de+propósito;🛠️+Consertando+meus+próprios+erros;💜+Compartilhando+tudo+pelo+caminho" alt="Typing SVG" />
-</a>
-
 <br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc8ce613-072b-4492-83be-6d33578480fb"
+       width="450"
+       alt="Sticker Docker feminino - DevOps"/>
+</p>
 
 <img src="https://img.shields.io/badge/Docker-Journey-f472b6?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Em%20andamento-c084fc?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Learning-in%20public-a855f7?style=for-the-badge"/>
 
 </div>
+
+
 
 <br/>
 
@@ -41,7 +45,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <div align="center">
 
 <!-- 🎀 Para atualizar: troque o número depois de /progress/ pela sua % (tópicos concluídos ÷ 10 × 100) -->
-<img src="https://geps.dev/progress/40?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
+<img src="https://geps.dev/progress/50?dangerColor=f9a8d4&warningColor=d8b4fe&successColor=a855f7" width="420"/>
 
 <br/><br/>
 </div>
@@ -72,7 +76,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 | 02 | 🖼️ Images | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/02-images/01-imagens.md) | [ver-lab](https://github.com/docker-journey/docker-labs) | 💗 |
 | 03 | 📜 Dockerfile | [ver](https://github.com/Docker-Journey/docker-learning/blob/main/03-Dockerfile/01-dockerfile.md) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
 | 04 | 💾 Volumes | [ver](https://github.com/Docker-Journey/docker-learning/tree/main/04-volume) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
-| 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
+| 05 | 🌐 Networks | [ver](https://github.com/docker-journey/docker-learning/tree/main/05-networks) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 💗 |
 | 06 | 🧩 Compose | [ver](https://github.com/docker-journey/docker-learning/tree/main/06-compose) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
 | 07 | 📮 Registries | [ver](https://github.com/docker-journey/docker-learning/tree/main/07-registries) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
 | 08 | 🔐 Security | [ver](https://github.com/docker-journey/docker-learning/tree/main/08-security) | [ver-lab](https://github.com/Docker-Journey/01-docker-labs) | 🤍 |
