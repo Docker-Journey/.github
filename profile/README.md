@@ -60,7 +60,7 @@ Aqui não tem só código que deu certo. Tem também o que deu errado, por que d
 <br/>
 <img src="https://img.shields.io/badge/📖%20Tutoriais-3-c084fc?style=for-the-badge"/>
 <br/>
-<img src="https://img.shields.io/badge/💬%20Posts%20na%20comunidade-0-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💬%20Posts%20na%20comunidade-1-a855f7?style=for-the-badge"/>
 
 </div>
 
